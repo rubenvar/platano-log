@@ -1,0 +1,15 @@
+# Changelog
+
+## [0.1.0] - 2021-11-08
+
+### Fixed
+
+- Fix 🍌 character as var in `console.log`.
+
+## [0.0.3] - 2021-11-08
+
+- Add a changelog.
+
+## [0.0.2] - 2021-11-08
+
+- Initial commit.
