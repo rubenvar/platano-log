@@ -25,17 +25,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platanojs/log.git"
+    "url": "git+https://github.com/rubenvar/platano-log.git"
   },
   "keywords": [
     "banana",
     "platano",
     "console",
-    "console.log"
+    "console-log"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/platanojs/log/issues"
+    "url": "https://github.com/rubenvar/platano-log/issues"
   },
-  "homepage": "https://github.com/platanojs/log#readme"
+  "homepage": "https://github.com/rubenvar/platano-log#readme"
 }

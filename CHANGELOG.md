@@ -1,8 +1,10 @@
 # Changelog
 
-## [0.1.0] - 2021-11-08
+## [Unreleased]
 
-### Fixed
+- Changed npm owner and repo.
+
+## [0.1.0] - 2021-11-08
 
 - Fix 🍌 character as var in `console.log`.
 
