@@ -1,6 +1,6 @@
 {
   "name": "@platanojs/log",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "🍌 Logs a platano! (no dependencies)",
   "main": "index.js",
   "devDependencies": {
