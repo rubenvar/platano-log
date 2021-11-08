@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [0.1.1] - 2021-11-08
 
 - Changed npm owner and repo.
 
